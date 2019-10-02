@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0 (2)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/ant-contrib.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/ant.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/apache-mime4j-core.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/apache-mime4j-dom.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/bcmail-jdk15.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/bcprov-jdk15.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/commons-compress.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/commons-io.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/fontbox.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/gate-asm.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/gate-compiler-jdt.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/index.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/ivy-report.css"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/ivy.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/java-getopt.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/java2html.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/javacc.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/jaxen.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/jempbox.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/junit.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/lucene-core.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/metadata-extractor.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/pdfbox.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/poi-ooxml-schemas.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/poi-scratchpad.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/poi.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/spring-aop.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/spring-beans.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/tika-core.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/tika-parsers.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-all.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-compile.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-default.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-master.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-required.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-runtime.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/uk.ac.gate-gate-core-test.html"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/wstx-lgpl.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/xmlunit.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/lib/xstream.jar"/>
+	<classpathentry kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/bin/gate.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
